@@ -1,0 +1,26 @@
+{
+  "index.html": {
+    "name": "index.html",
+    "type": "file",
+    "size": 439,
+    "hash": "959c36394389600b486826ebdce57cb72bacbe7ba48b7754cf3e2dee530268e9"
+  },
+  "main.js": {
+    "name": "main.js",
+    "type": "file",
+    "size": 2575,
+    "hash": "4f15e40ac906a550345bedde974e233dc56675ae26379adef712697e1183ff75"
+  },
+  "preload.js": {
+    "name": "preload.js",
+    "type": "file",
+    "size": 1678,
+    "hash": "7a56f35ce77adb936fcdcd0fa00620b339ae4be693336b64289043e59838eebe"
+  },
+  "renderer.js": {
+    "name": "renderer.js",
+    "type": "file",
+    "size": 293,
+    "hash": "6fd5ec8cbf8fee6b1371943184e16956bf85a04bf8ba14451c8f0ba075f60898"
+  }
+}

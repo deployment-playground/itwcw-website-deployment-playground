@@ -1,0 +1,14 @@
+{
+  "status": "online", // online | development/maintenance
+  "settings": {
+    "versionRequired": "0.0.1",
+  },
+  "dashboardNotifications": {
+    "alert": {
+      "enabled": false,
+      "type": "success",
+      "title": "Welcome!",
+      "content": "Some big things are about to happen around here :)"
+    }
+  }
+}
